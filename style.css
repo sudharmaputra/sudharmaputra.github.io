@@ -1,0 +1,31 @@
+body{
+    background-color: #fafafa !important;
+}
+.primary{
+    background-color: #FFCC1D;
+    color: #595260;
+    border-color: #fcdf82;
+}
+.accordion-item{
+    border: none !important;
+}
+.accordion-button:focus{
+    border-color: none !important;
+    box-shadow: none !important;
+}
+.accordion-button:not(.collapsed){
+    background-color: #fff !important;
+    color: #212529;
+}
+.card-body{
+    background-color: rgba(0, 0, 0, 0.02);
+}
+.btn{
+    box-shadow: 0px 8px 18px -16px rgb(0 0 0 / 19%) !important;
+}
+.btn:hover{
+    box-shadow: 0px 8px 18px -16px rgb(0 0 0 / 19%) !important;
+}
+small{
+    color: rgba(0, 0, 0, 0.4);
+}
